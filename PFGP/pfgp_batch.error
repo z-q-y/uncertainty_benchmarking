@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "d_pfgp.py", line 111, in <module>
+    _, penult_train = net.forward(sdts_train)
+ValueError: too many values to unpack (expected 2)
+Traceback (most recent call last):
+  File "pfgp.py", line 112, in <module>
+    _, penult_train = net.forward(sdts_train)
+ValueError: too many values to unpack (expected 2)
+srun: error: cgpu01: task 0: Exited with exit code 1
+srun: Terminating job step 302648.1
+srun: error: cgpu01: task 0: Exited with exit code 1
+srun: Terminating job step 302648.0
